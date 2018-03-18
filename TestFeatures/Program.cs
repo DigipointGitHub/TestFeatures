@@ -11,6 +11,8 @@ namespace TestFeatures
     {
         static void Main(string[] args)
         {
+            int j = 0;
+            j++;
         }
     }
 }
