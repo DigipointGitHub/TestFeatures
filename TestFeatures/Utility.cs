@@ -10,6 +10,7 @@ namespace TestFeatures
     {
         int first_util()
         {
+            /* wonderful I see it */
             return 0;
         }
         
