@@ -13,6 +13,8 @@ namespace TestFeatures
         {
             int i = 0;
             i++;
+            int k = 5;
+            k++;
             int j = 0;
             j++;
         }
